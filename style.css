@@ -282,7 +282,9 @@ html[lang="ar"] .form-group label {
 .h4 {
     text-align: right;
 }
-
+english h4 {
+    text-align: left;
+}
 .english-container span {
     text-align: left;
     color: #bfbfbf;
